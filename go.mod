@@ -1,4 +1,4 @@
-module github.com/imroc/gomodtest
+module github.com/imroc/gomodtest/v2
 
 go 1.17
 
